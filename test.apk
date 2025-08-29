@@ -1,0 +1,4 @@
+# This is a dummy APK file for testing purposes only
+# In reality, this would be a compiled Android APK package
+# For testing, we just need a file with .apk extension
+TEST_APK_CONTENT
